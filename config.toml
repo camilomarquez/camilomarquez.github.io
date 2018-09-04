@@ -1,4 +1,4 @@
-baseURL = "camilomarquez.github.io"
+baseURL = "https://camilomarquez.github.io/"
 languageCode = "en-us"
 title = "Portafolio"
 theme = "hyde"
