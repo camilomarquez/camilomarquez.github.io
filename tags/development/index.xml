@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development on Portafolio</title>
+    <link>https://camilomarquez.github.io/tags/development/</link>
+    <description>Recent content in Development on Portafolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Sep 2018 01:17:24 -0300</lastBuildDate>
+    
+	<atom:link href="https://camilomarquez.github.io/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Planificación septiembre 2018</title>
+      <link>https://camilomarquez.github.io/my-first-post/</link>
+      <pubDate>Tue, 04 Sep 2018 01:17:24 -0300</pubDate>
+      
+      <guid>https://camilomarquez.github.io/my-first-post/</guid>
+      <description>Objetivos principales:  Instalación del supresor de transientes y pararrayos(24 septiembre). Aumento de la capacidad energética de la torre. Comprar computador laboratorio. Analizar y graficar datos. Niebla: Apoyo a Iván y comenzar conversaciones con Roberto.  1. Terreno AC(2-3 días). 
+Semana 2. Acompañante: Tomás.
+Objetivos:
+ Respiración. Recolectar datos. Medir profundidad sensores ts nodo bosque. Otros:(Jonathan)  2. Terreno AC(1-2 días). 
+Semana 4. Acompañante: Rubén, Jorge y Jonathan .</description>
+    </item>
+    
+    <item>
+      <title>Informe agosto 2018</title>
+      <link>https://camilomarquez.github.io/informeago18/</link>
+      <pubDate>Thu, 30 Aug 2018 01:17:24 -0300</pubDate>
+      
+      <guid>https://camilomarquez.github.io/informeago18/</guid>
+      <description>div.google-visualization-tooltip { background-color: rgba(0, 0, 0, .6); color: white; border-radius: 6px; min-width: 325px; max-height: 375px; } div.google-visualization-tooltip  ul  li { display: table-cell; margin: 0 5px; } div.google-visualization-tooltip  ul  li  span { color: white; } img { display: block; margin-left: auto; margin-right: auto; width:75%; height:75%; } p {text-align:center;} /* Three image containers (use 25% for four, and 50% for two, etc) */ .column { float: left; width: 32%; padding: 1px; } /* two image containers (use 25% for four, and 50% for two, etc) */ .</description>
+    </item>
+    
+  </channel>
+</rss>
